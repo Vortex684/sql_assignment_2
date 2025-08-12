@@ -1,1 +1,0 @@
-# sql_assignment_2
